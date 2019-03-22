@@ -1,0 +1,100 @@
+{
+    "request_datetime": "2019-03-22 10:26:35",
+    "lines": [
+        {
+            "id": "line:61",
+            "is_disrupted": 0,
+            "is_realtime_system_up": 1,
+            "stop_points": [
+                {
+                    "destination_id": "stop_area:SA_1068",
+                    "first_departure": "2019-03-22 05:24:00",
+                    "frequency": 135,
+                    "id": "stop_point:SP_3042",
+                    "last_departure": "2019-03-23 00:09:00",
+                    "schedules": [
+                        {
+                            "datetime": "2019-03-22 11:24:31",
+                            "last_train": 0,
+                            "short_train": 1,
+                            "train_without_passenger": 0
+                        },
+                        {
+                            "datetime": "2019-03-22 11:26:43",
+                            "last_train": 0,
+                            "short_train": 1,
+                            "train_without_passenger": 0
+                        }
+                    ],
+                    "service_ended": 0,
+                    "station_evacuated": 0,
+                    "station_closed": 0,
+                    "stop_area_id": "stop_area:SA_364",
+                    "train_at_platform": 0,
+                    "train_not_stopping": 0
+                }
+            ]
+        },
+        {
+            "id": "line:69",
+            "is_disrupted": 0,
+            "is_realtime_system_up": 1,
+            "stop_points": [
+                {
+                    "destination_id": "stop_area:SA_213",
+                    "first_departure": "2019-03-22 05:15:00",
+                    "frequency": 160,
+                    "id": "stop_point:SP_2934",
+                    "last_departure": "2019-03-23 00:00:00",
+                    "schedules": [
+                        {
+                            "datetime": "2019-03-22 11:25:00",
+                            "last_train": 0,
+                            "short_train": 1,
+                            "train_without_passenger": 0
+                        },
+                        {
+                            "datetime": "2019-03-22 11:27:40",
+                            "last_train": 0,
+                            "short_train": 1,
+                            "train_without_passenger": 0
+                        }
+                    ],
+                    "service_ended": 0,
+                    "station_closed": 0, 
+                    "station_evacuated": 0,
+                    "stop_area_id": "stop_area:SA_1298",
+                    "train_at_platform": 0,
+                    "train_not_stopping": 0
+                },
+                {
+                    "destination_id": "stop_area:SA_214",
+                    "first_departure": "2019-03-22 05:15:00",
+                    "frequency": 160,
+                    "id": "stop_point:SP_2934",
+                    "last_departure": "2019-03-23 00:00:00",
+                    "schedules": [
+                        {
+                            "datetime": "2019-03-22 11:25:00",
+                            "last_train": 0,
+                            "short_train": 1,
+                            "train_without_passenger": 0
+                        },
+                        {
+                            "datetime": "2019-03-22 11:27:40",
+                            "last_train": 0,
+                            "short_train": 1,
+                            "train_without_passenger": 0
+                        }
+                    ],
+                    "service_ended": 0,
+                    "station_closed": 0, 
+                    "station_evacuated": 0,
+                    "stop_area_id": "stop_area:SA_1298",
+                    "train_at_platform": 0,
+                    "train_not_stopping": 0
+                }
+            ]
+        }
+    ]
+}
